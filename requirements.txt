@@ -1,0 +1,4 @@
+langchain
+panda
+numpy
+tk
